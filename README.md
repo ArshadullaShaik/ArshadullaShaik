@@ -3,7 +3,7 @@
 # Hi, I'm Shaik Mohammed Arshadulla 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-stack+developer;Smart+contract+engineer;Building+things+that+are+hard;Learning+something+new%2C+day+by+day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-stack+developer;Smart+contract+engineer;Building+things+that+are+hard" alt="Typing SVG" />
 </a>
 
 I build full-stack products, smart contracts, and the occasional P2P experiment — mostly because I want to know how the thing under the hood actually works.
@@ -20,7 +20,7 @@ I build full-stack products, smart contracts, and the occasional P2P experiment 
 
 - 🔭 Currently building **[Poros](https://github.com/ArshadullaShaik/Poros)** — a community-driven platform for authoring, versioning, and backtesting trading strategies.
 - 🔐 Deep in **confidential smart contracts** — encrypted AMMs on [Zama fhEVM](https://docs.zama.ai/fhevm) with ERC-7984 tokens.
-- 🌱 Learning **Rust** and low-level systems, one small program at a time.
+- 🌱 Exploring **Rust** and low-level systems, one small program at a time.
 - 🧪 I enjoy the awkward problems: P2P chat, DNS resolvers, quantum circuit benchmarks, video fingerprinting.
 - 💬 Ask me about **C/C++, data structures & algorithms, Node.js, Solidity, or smart contract tooling**.
 - 😉 Motto: *learn something new, day by day.*
@@ -38,7 +38,7 @@ I build full-stack products, smart contracts, and the occasional P2P experiment 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) <sub>learning</sub>
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 **CS fundamentals**
 
@@ -139,7 +139,7 @@ I build full-stack products, smart contracts, and the occasional P2P experiment 
 | [my-dns](https://github.com/ArshadullaShaik/my-dns) | A DNS resolver written from scratch to understand the protocol | Node.js |
 | [p2p](https://github.com/ArshadullaShaik/p2p) | Peer-to-peer chat experiments, including a C++ node | Node.js, C++ |
 | [MiniUrl](https://github.com/ArshadullaShaik/MiniUrl) | URL shortener with a layered Express backend | Node.js, Express |
-| [learn-rust_withme](https://github.com/ArshadullaShaik/learn-rust_withme) | My public Rust learning trail — cargo projects and small binaries | Rust |
+| [learn-rust_withme](https://github.com/ArshadullaShaik/learn-rust_withme) | My public Rust log — cargo projects and small binaries | Rust |
 
 </details>
 
@@ -149,8 +149,8 @@ I build full-stack products, smart contracts, and the occasional P2P experiment 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ArshadullaShaik&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshadullaShaik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ArshadullaShaik&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArshadullaShaik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=ArshadullaShaik&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
@@ -166,9 +166,10 @@ I'm always up for talking about systems, smart contracts, or a project that soun
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-ulla.in-0E75B6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ulla.in)
 [![GitHub](https://img.shields.io/badge/GitHub-ArshadullaShaik-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArshadullaShaik)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-HANDLE)
-[![Email](https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shaikmohammedarshadulla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaikmohammedarshadulla/)
+[![Email](https://img.shields.io/badge/Email-shaikmohammedarshadulla%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikmohammedarshadulla@gmail.com)
 
 </div>
 
